@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Ram Mazumder | talks</title>
+<title>Ram Mazumder| projects</title>
 <meta name="description" content="">
 
 <!-- Open Graph -->
@@ -28,7 +28,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/talks/">
+<link rel="canonical" href="/projects/">
 
 <!-- Theming-->
 
@@ -59,7 +59,7 @@
         <!-- Social Icons -->
         <div class="row ml-1 ml-sm-0">
           <span class="contact-icon text-center">
-  <a href="mailto:rmazumder@georgiasouthern.edu"><i class="fas fa-envelope"></i></a>
+  <a href="mailto:rkmazumder@ku.edu"><i class="fas fa-envelope"></i></a>
   
   <a href="https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
   <a href="https://www.semanticscholar.org/author/R.-K.-Mazumder/102115465" target="_blank" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
@@ -98,7 +98,21 @@
           
           
           
-
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
           
           <li class="nav-item ">
               <a class="nav-link" href="/cv/">
@@ -110,40 +124,26 @@
           
           
           <li class="nav-item ">
-              <a class="nav-link" href="/research/">
-                research
+              <a class="nav-link" href="/mentoring/">
+                mentoring
                 
               </a>
           </li>
           
-
-
-          <li class="nav-item ">
-              <a class="nav-link" href="/teaching/">
-                teaching
-                
-              </a>
-          </li> 
-         
-
-
-          <li class="nav-item ">
-              <a class="nav-link" href="/Lab/">
-                InfraRisk
-                
-              </a>
-          </li>
           
-       
           
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/projects/">
                 projects
                 
+                <span class="sr-only">(current)</span>
+                
               </a>
           </li>
           
-         
+          
+          
+          
           
           <li class="nav-item ">
               <a class="nav-link" href="/publications/">
@@ -154,11 +154,9 @@
           
           
           
-          <li class="nav-item active">
+          <li class="nav-item ">
               <a class="nav-link" href="/talks/">
                 talks
-                
-                <span class="sr-only">(current)</span>
                 
               </a>
           </li>
@@ -179,26 +177,26 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">talks</h1>
+    <h1 class="post-title">projects</h1>
     <p class="desc"></p>
   </header>
-
 
   <article>
     <div class="projects grid">
 
-
+  
+  
   <div class="grid-item">
     
-    <a href="/talks/1_project/">
+    <a href="/projects/1_project/">
     
       <div class="card hoverable">
         
-        <img src="/assets/img/naadri_incubator_2022.png" alt="project thumbnail" />
+        <img src="/assets/img/Seismopi.png" alt="project thumbnail" />
         
         <div class="card-body">
-          <h2 class="card-title text-lowercase">NAAHDRI Incubator Presentation</h2>
-          <p class="card-text">Presentation in NAAHDRI Research Incubator Event, Feb 11, 2022</p>
+          <h2 class="card-title text-lowercase">SeismoPi</h2>
+          <p class="card-text">Seismic damage analysis tool for pipelines .</p>
           <div class="row ml-1 mr-1 p-0">
             
           </div>
@@ -209,15 +207,91 @@
 
   <div class="grid-item">
     
-    <a href="/talks/2_project/">
+    <a href="/projects/2_project/">
     
       <div class="card hoverable">
         
-        <img src="/assets/img/Incore1.png" alt="project thumbnail" />
+        <img src="/assets/img/ML1.png" alt="project thumbnail" />
         
         <div class="card-body">
-          <h2 class="card-title text-lowercase">NIST CoE Presentation at SAM 2022</h2>
-          <p class="card-text">In-Core Semi Annual Meeting at Fort Colins, April 28, 2022.</p>
+          <h2 class="card-title text-lowercase">Machine Learning</h2>
+          <p class="card-text">Failure risk analysis of pipelines.</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/3_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/AM1.png" alt="project thumbnail" />
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Asset Management Tools</h2>
+          <p class="card-text">Asset management of interdependent road and water networks</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/4_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/CT1.png" alt="project thumbnail" />
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Centrality Analysis</h2>
+          <p class="card-text">Centrality analysis of network systems.</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/5_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/Fuzzy1.png" alt="project thumbnail" />
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Fuzzy Analalysis</h2>
+          <p class="card-text">Fuzzy synthetic analysis for seismic risk analysis</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/6_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/HD1.png" alt="project thumbnail" />
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Historical disparaties on disaster resilience</h2>
+          <p class="card-text">Historical Housing Disparities Impact on Present-Day Community Disaster Resilience</p>
           <div class="row ml-1 mr-1 p-0">
             
           </div>
@@ -229,15 +303,15 @@
 
   <div class="grid-item">
     
-    <a href="/talks/3_project/">
+    <a href="/projects/7_project/">
     
       <div class="card hoverable">
         
-        <img src="/assets/img/Incore2.png" alt="project thumbnail" />
+        <img src="/assets/img/Seis_Func.png" alt="project thumbnail" />
         
         <div class="card-body">
-          <h2 class="card-title text-lowercase">NIST CoE Presentation at SAM 2022</h2>
-          <p class="card-text">In-Core Semi Annual Meeting at Fort Colins, April 29, 2022.</p>
+          <h2 class="card-title text-lowercase">Seismic Functionality and Resilience of Water Network</h2>
+          <p class="card-text">Developed Surface Fragility for Water Distribution Systems</p>
           <div class="row ml-1 mr-1 p-0">
             
           </div>
@@ -245,19 +319,18 @@
       </div>
     </a>
   </div>
-
 
   <div class="grid-item">
     
-    <a href="/talks/4_project/">
+    <a href="/projects/8_project/">
     
       <div class="card hoverable">
         
-        <img src="/assets/img/14ACWE.png" alt="project thumbnail" />
+        <img src="/assets/img/Rel_Water.png" alt="project thumbnail" />
         
         <div class="card-body">
-          <h2 class="card-title text-lowercase">14 ACWE Presentation at Texas Tech University</h2>
-          <p class="card-text">Presented research work on Scenario-based Hurricane Risk Analysis</p>
+          <h2 class="card-title text-lowercase">Reliability Analysis of Water Pipelines</h2>
+          <p class="card-text">Prediction of time-variant reliability of corroded water pipelines</p>
           <div class="row ml-1 mr-1 p-0">
             
           </div>
@@ -265,19 +338,18 @@
       </div>
     </a>
   </div>
-
 
   <div class="grid-item">
     
-    <a href="/talks/5_project/">
+    <a href="/projects/9_project/">
     
       <div class="card hoverable">
         
-        <img src="/assets/img/pipelines2024.png" alt="project thumbnail" />
+        <img src="/assets/img/Func_Inter.png" alt="project thumbnail" />
         
         <div class="card-body">
-          <h2 class="card-title text-lowercase">the ASCE UESI Pipelines Conference at Calgary, Canada</h2>
-          <p class="card-text">Presented research work on Generative Adversarial Network - Pipelines Failure Risk Analysis</p>
+          <h2 class="card-title text-lowercase">Post-Earthquake Community Resilience Analysis</h2>
+          <p class="card-text">Integrating Essential Infrastructure Systems Services with Building Functionality</p>
           <div class="row ml-1 mr-1 p-0">
             
           </div>
@@ -285,13 +357,25 @@
       </div>
     </a>
   </div>
+
+
+
+
+
+</div>
+
+  </article>
+
+</div>
+
+    </div>
 
     <!-- Footer -->
 
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2025 Ram Mazumder.
+    &copy; Copyright 2021 Ram Mazumder.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
     
