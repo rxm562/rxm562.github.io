@@ -212,46 +212,46 @@ Infrastructure Risk Lab is developed by Dr. Mazumder in Fall 2025. The objective
 <h3 id="openings">Lab Members</h3>
 
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
+<img
+  class="img-fluid z-depth-1 rounded-circle"
+  src="/assets/img/pp_Mazumder.JPG"
+  width="120"
+  height="120"
+>
 
-  <!-- Director -->
-  <div style="text-align: center; max-width: 160px;">
-    <img
-      class="img-fluid z-depth-1 rounded-circle"
-      src="/assets/img/pp_Mazumder.JPG"
-      width="120"
-      height="120"
-    >
-    <p><strong>Director</strong></p>
-    <p>Ram Krishna Mazumder</p>
-  </div>
 
-  <!-- Co-Director 1 -->
-  <div style="text-align: center; max-width: 160px;">
-    <img
-      class="img-fluid z-depth-1 rounded-circle"
-      src="/assets/img/mm.jpg"
-      width="120"
-      height="120"
-    >
-    <p><strong>Co-Director</strong></p>
-    <p>Dr. Marcel Maghiar</p>
-    <p>Professor, Civil Engineering & Construction</p>
-  </div>
 
-  <!-- Co-Director 2 -->
-  <div style="text-align: center; max-width: 160px;">
-    <img
-      class="img-fluid z-depth-1 rounded-circle"
-      src="/assets/img/gm.jpg"
-      width="120"
-      height="120"
-    >
-    <p>Dr. Gustavo Maldonado</p>
-    <p>Professor, Civil Engineering & Construction</p>
-  </div>
+</p>Director: Ram Krishna Mazumder</p>
 
-</div>
+<p style="font-weight:700;">Co-Director:</p>
+
+
+
+<img
+  class="img-fluid z-depth-1 rounded-circle"
+  src="/assets/img/mm.jpg"
+  width="120"
+  height="120"
+>
+
+
+</p>Dr. Marcel Maghiar</p>
+</p>Professor, Civil Engineering & Construction</p>
+
+
+
+
+<img
+  class="img-fluid z-depth-1 rounded-circle"
+  src="/assets/img/gm.jpg"
+  width="120"
+  height="120"
+>
+
+
+</p>Dr. Gustavo Maldonado</p>
+</p>Professor, Civil Engineering & Construction</p>
+
 
 
 <ul>
